@@ -10,6 +10,8 @@ python = "^3.11"
 langserve = {extras = ["all"], version = "^0.2.2"}
 fastapi = "^0.111.0"
 langchain = "^0.2.5"
+apscheduler = "^3.10.4"
+uuid = "^1.30"
 
 
 [build-system]
